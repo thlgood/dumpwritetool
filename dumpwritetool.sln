@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dumpwritetool", "dumpwritetool.vcproj", "{5606E08A-F8CB-4844-A1D4-DF6330A5E3BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testdumpwritetool", "testdumpwritetool\testdumpwritetool.vcproj", "{E5ECD176-0599-42B4-93AE-98D8F1A5B46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5606E08A-F8CB-4844-A1D4-DF6330A5E3BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5606E08A-F8CB-4844-A1D4-DF6330A5E3BC}.Debug|Win32.Build.0 = Debug|Win32
+		{5606E08A-F8CB-4844-A1D4-DF6330A5E3BC}.Release|Win32.ActiveCfg = Release|Win32
+		{5606E08A-F8CB-4844-A1D4-DF6330A5E3BC}.Release|Win32.Build.0 = Release|Win32
+		{E5ECD176-0599-42B4-93AE-98D8F1A5B46A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5ECD176-0599-42B4-93AE-98D8F1A5B46A}.Debug|Win32.Build.0 = Debug|Win32
+		{E5ECD176-0599-42B4-93AE-98D8F1A5B46A}.Release|Win32.ActiveCfg = Release|Win32
+		{E5ECD176-0599-42B4-93AE-98D8F1A5B46A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
